@@ -10,11 +10,7 @@ In the project directory, you can run:
 
 Installs the npm packages.
 
-### `npm run mock-server`
-
-Runs the mock server on [http://localhost:3000](http://localhost:3000) for API.
-
 ### `npm start`
 
 Runs the app in the development mode.\
-Open [http://localhost:3001](http://localhost:3001) to view it in your browser.
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
