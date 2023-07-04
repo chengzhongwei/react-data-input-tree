@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import originalSchema from "../mocks/data/schema-2.json";
+import originalSchema from "../mocks/data/schema.json";
 import Collapsible from "../components/Collapsible";
 import "./index.css";
 

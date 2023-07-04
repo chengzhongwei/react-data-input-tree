@@ -4,7 +4,7 @@ import InputTree from "./containers/InputTree";
 import reportWebVitals from "./reportWebVitals";
 import JsonInput from "./containers/JsonInput";
 import React, { useState } from "react";
-import originalSchema from "./mocks/data/schema-2.json";
+import originalSchema from "./mocks/data/schema.json";
 
 const getDefaultValues = (schema) => {
   if (Array.isArray(schema)) return schema[0];
