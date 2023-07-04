@@ -1,0 +1,13 @@
+{
+  "parent": "[None]",
+  "components": {
+    "unit": {
+      "unitType": "MISSILE"
+    },
+    "unitStats": {
+      "radius": 10,
+      "invulnerable": true,
+      "ground": false
+    }
+  }
+}

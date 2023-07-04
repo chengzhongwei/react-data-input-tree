@@ -1,17 +1,44 @@
-import React from 'react';
-import ReactDOM from 'react-dom/client';
-import './index.css';
-import App from './App';
-import reportWebVitals from './reportWebVitals';
+import ReactDOM from "react-dom";
+import "./index.css";
+import InputTree from "./containers/InputTree";
+import reportWebVitals from "./reportWebVitals";
+import JsonInput from "./containers/JsonInput";
+import React, { useState } from "react";
+import originalSchema from "./mocks/data/schema-2.json";
 
-const root = ReactDOM.createRoot(document.getElementById('root'));
-root.render(
-  <React.StrictMode>
-    <App />
-  </React.StrictMode>
-);
+const getDefaultValues = (schema) => {
+  if (Array.isArray(schema)) return schema[0];
+  if (schema === "number") return 0;
+  if (schema === "boolean") return false;
+  if (schema === "string") return "";
+  return Object.keys(schema).reduce(
+    (defaults, key) => ({
+      ...defaults,
+      [key]: getDefaultValues(schema[key]),
+    }),
+    {}
+  );
+};
 
-// If you want to start measuring performance in your app, pass a function
-// to log results (for example: reportWebVitals(console.log))
-// or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
+const App = () => {
+  const defaultValues = getDefaultValues(originalSchema);
+  const [formValues, setFormValues] = useState(defaultValues);
+
+  const handleImportJson = (values) => {
+    setFormValues(values);
+  };
+
+  return (
+    <React.StrictMode>
+      <InputTree values={formValues} setFormValues={setFormValues} />
+      <JsonInput
+        setValues={handleImportJson}
+        formData={formValues}
+        defaultValues={defaultValues}
+      />
+    </React.StrictMode>
+  );
+};
+
+ReactDOM.render(<App />, document.getElementById("root"));
 reportWebVitals();

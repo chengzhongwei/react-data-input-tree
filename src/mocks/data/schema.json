@@ -1,0 +1,24 @@
+{
+  "parent": "string",
+  "components": {
+    "unit": {
+      "unitType": ["UNIT", "MISSILE", "STRUCTURE"]
+    },
+    "unitStats": {
+      "radius": "number",
+
+      "invulnerable": "boolean",
+
+      "ground": "boolean"
+    },
+    "health": {
+      "maxHealth": "number",
+      "startHealth": "number",
+      "regeneration": "number",
+      "regenerationDelay": "number"
+    },
+    "unitValue": {
+      "goldCost": "number"
+    }
+  }
+}

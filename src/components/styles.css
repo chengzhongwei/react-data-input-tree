@@ -1,0 +1,58 @@
+.fieldset-wrapper {
+  position: relative;
+  padding: 5px 0 10px 20px;
+  border: none;
+}
+
+.fieldset-wrapper::before {
+  content: "";
+  position: absolute;
+  top: -5px;
+  bottom: 10px;
+  left: 33px;
+  border-left: 2px solid #4d4d4d;
+}
+
+.fieldset-wrapper::after {
+  content: "";
+  position: absolute;
+  bottom: 10px;
+  left: 33px;
+  width: 8px;
+  border-bottom: 2px solid #4d4d4d;
+}
+.fieldset-wrapper.expanded::before,
+.fieldset-wrapper.expanded::after {
+  border-color: #4d4d4d;
+}
+.fieldset-wrapper::before,
+.fieldset-wrapper::after {
+  border-color: transparent;
+}
+.collapsible-title {
+  padding-left: 5px;
+}
+.key-name-row {
+  margin-top: 5px;
+  min-height: 25px;
+  padding-left: 5px;
+}
+
+.key-name-row :first-child {
+  width: 150px;
+}
+
+.key-name-row {
+  display: flex;
+  justify-content: flex-start;
+}
+.key-name-row > * {
+  flex: 0 1 40%;
+}
+
+.collapsible-wrapper {
+  margin-left: 20px;
+}
+.key-name-input {
+  flex: 1;
+}

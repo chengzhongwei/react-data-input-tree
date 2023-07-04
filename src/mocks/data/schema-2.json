@@ -1,0 +1,2271 @@
+{
+  "parent": "string",
+  "components": {
+    "unit": {
+      "unitType": ["UNIT", "MISSILE", "STRUCTURE"]
+    },
+    "unitStats": {
+      "radius": "number",
+
+      "invulnerable": "boolean",
+
+      "ground": "boolean"
+    },
+    "health": {
+      "maxHealth": "number",
+      "startHealth": "number",
+      "regeneration": "number",
+      "regenerationDelay": "number"
+    },
+    "unitValue": {
+      "goldCost": "number"
+    },
+    "branch": {
+      "unit": {
+        "unitType": ["UNIT", "MISSILE", "STRUCTURE"]
+      },
+      "unitStats": {
+        "radius": "number",
+
+        "invulnerable": "boolean",
+
+        "ground": "boolean"
+      },
+      "health": {
+        "maxHealth": "number",
+        "startHealth": "number",
+        "regeneration": "number",
+        "regenerationDelay": "number"
+      },
+      "unitValue": {
+        "goldCost": "number"
+      }
+    },
+    "branch2": {
+      "unit": {
+        "unitType": ["UNIT", "MISSILE", "STRUCTURE"]
+      },
+      "unitStats": {
+        "radius": "number",
+
+        "invulnerable": "boolean",
+
+        "ground": "boolean"
+      },
+      "health": {
+        "maxHealth": "number",
+        "startHealth": "number",
+        "regeneration": "number",
+        "regenerationDelay": "number"
+      },
+      "unitValue": {
+        "goldCost": "number"
+      }
+    },
+    "branch26": {
+      "unit": {
+        "unitType": ["UNIT", "MISSILE", "STRUCTURE"]
+      },
+      "unitStats": {
+        "radius": "number",
+
+        "invulnerable": "boolean",
+
+        "ground": "boolean"
+      },
+      "health": {
+        "maxHealth": "number",
+        "startHealth": "number",
+        "regeneration": "number",
+        "regenerationDelay": "number"
+      },
+      "unitValue": {
+        "goldCost": "number"
+      }
+    },
+    "branch25": {
+      "unit": {
+        "unitType": ["UNIT", "MISSILE", "STRUCTURE"]
+      },
+      "unitStats": {
+        "radius": "number",
+
+        "invulnerable": "boolean",
+
+        "ground": "boolean"
+      },
+      "health": {
+        "maxHealth": "number",
+        "startHealth": "number",
+        "regeneration": "number",
+        "regenerationDelay": "number"
+      },
+      "unitValue": {
+        "goldCost": "number"
+      }
+    },
+    "branch24": {
+      "unit": {
+        "unitType": ["UNIT", "MISSILE", "STRUCTURE"]
+      },
+      "unitStats": {
+        "radius": "number",
+
+        "invulnerable": "boolean",
+
+        "ground": "boolean"
+      },
+      "health": {
+        "maxHealth": "number",
+        "startHealth": "number",
+        "regeneration": "number",
+        "regenerationDelay": "number"
+      },
+      "unitValue": {
+        "goldCost": "number"
+      }
+    },
+    "branch23": {
+      "unit": {
+        "unitType": ["UNIT", "MISSILE", "STRUCTURE"]
+      },
+      "unitStats": {
+        "radius": "number",
+
+        "invulnerable": "boolean",
+
+        "ground": "boolean"
+      },
+      "health": {
+        "maxHealth": "number",
+        "startHealth": "number",
+        "regeneration": "number",
+        "regenerationDelay": "number"
+      },
+      "unitValue": {
+        "goldCost": "number"
+      }
+    },
+    "branch22": {
+      "unit": {
+        "unitType": ["UNIT", "MISSILE", "STRUCTURE"]
+      },
+      "unitStats": {
+        "radius": "number",
+
+        "invulnerable": "boolean",
+
+        "ground": "boolean"
+      },
+      "health": {
+        "maxHealth": "number",
+        "startHealth": "number",
+        "regeneration": "number",
+        "regenerationDelay": "number"
+      },
+      "unitValue": {
+        "goldCost": "number"
+      }
+    },
+    "branch21": {
+      "unit": {
+        "unitType": ["UNIT", "MISSILE", "STRUCTURE"]
+      },
+      "unitStats": {
+        "radius": "number",
+
+        "invulnerable": "boolean",
+
+        "ground": "boolean"
+      },
+      "health": {
+        "maxHealth": "number",
+        "startHealth": "number",
+        "regeneration": "number",
+        "regenerationDelay": "number"
+      },
+      "unitValue": {
+        "goldCost": "number"
+      }
+    },
+    "branch20": {
+      "unit": {
+        "unitType": ["UNIT", "MISSILE", "STRUCTURE"]
+      },
+      "unitStats": {
+        "radius": "number",
+
+        "invulnerable": "boolean",
+
+        "ground": "boolean"
+      },
+      "health": {
+        "maxHealth": "number",
+        "startHealth": "number",
+        "regeneration": "number",
+        "regenerationDelay": "number"
+      },
+      "unitValue": {
+        "goldCost": "number"
+      }
+    },
+    "branch19": {
+      "unit": {
+        "unitType": ["UNIT", "MISSILE", "STRUCTURE"]
+      },
+      "unitStats": {
+        "radius": "number",
+
+        "invulnerable": "boolean",
+
+        "ground": "boolean"
+      },
+      "health": {
+        "maxHealth": "number",
+        "startHealth": "number",
+        "regeneration": "number",
+        "regenerationDelay": "number"
+      },
+      "unitValue": {
+        "goldCost": "number"
+      }
+    },
+    "branch18": {
+      "unit": {
+        "unitType": ["UNIT", "MISSILE", "STRUCTURE"]
+      },
+      "unitStats": {
+        "radius": "number",
+
+        "invulnerable": "boolean",
+
+        "ground": "boolean"
+      },
+      "health": {
+        "maxHealth": "number",
+        "startHealth": "number",
+        "regeneration": "number",
+        "regenerationDelay": "number"
+      },
+      "unitValue": {
+        "goldCost": "number"
+      }
+    },
+    "branch17": {
+      "unit": {
+        "unitType": ["UNIT", "MISSILE", "STRUCTURE"]
+      },
+      "unitStats": {
+        "radius": "number",
+
+        "invulnerable": "boolean",
+
+        "ground": "boolean"
+      },
+      "health": {
+        "maxHealth": "number",
+        "startHealth": "number",
+        "regeneration": "number",
+        "regenerationDelay": "number"
+      },
+      "unitValue": {
+        "goldCost": "number"
+      }
+    },
+    "branch16": {
+      "unit": {
+        "unitType": ["UNIT", "MISSILE", "STRUCTURE"]
+      },
+      "unitStats": {
+        "radius": "number",
+
+        "invulnerable": "boolean",
+
+        "ground": "boolean"
+      },
+      "health": {
+        "maxHealth": "number",
+        "startHealth": "number",
+        "regeneration": "number",
+        "regenerationDelay": "number"
+      },
+      "unitValue": {
+        "goldCost": "number"
+      }
+    },
+    "branch15": {
+      "unit": {
+        "unitType": ["UNIT", "MISSILE", "STRUCTURE"]
+      },
+      "unitStats": {
+        "radius": "number",
+
+        "invulnerable": "boolean",
+
+        "ground": "boolean"
+      },
+      "health": {
+        "maxHealth": "number",
+        "startHealth": "number",
+        "regeneration": "number",
+        "regenerationDelay": "number"
+      },
+      "unitValue": {
+        "goldCost": "number"
+      }
+    },
+    "branch14": {
+      "unit": {
+        "unitType": ["UNIT", "MISSILE", "STRUCTURE"]
+      },
+      "unitStats": {
+        "radius": "number",
+
+        "invulnerable": "boolean",
+
+        "ground": "boolean"
+      },
+      "health": {
+        "maxHealth": "number",
+        "startHealth": "number",
+        "regeneration": "number",
+        "regenerationDelay": "number"
+      },
+      "unitValue": {
+        "goldCost": "number"
+      }
+    },
+    "branch13": {
+      "unit": {
+        "unitType": ["UNIT", "MISSILE", "STRUCTURE"]
+      },
+      "unitStats": {
+        "radius": "number",
+
+        "invulnerable": "boolean",
+
+        "ground": "boolean"
+      },
+      "health": {
+        "maxHealth": "number",
+        "startHealth": "number",
+        "regeneration": "number",
+        "regenerationDelay": "number"
+      },
+      "unitValue": {
+        "goldCost": "number"
+      }
+    },
+    "branch10": {
+      "unit": {
+        "unitType": ["UNIT", "MISSILE", "STRUCTURE"]
+      },
+      "unitStats": {
+        "radius": "number",
+
+        "invulnerable": "boolean",
+
+        "ground": "boolean"
+      },
+      "health": {
+        "maxHealth": "number",
+        "startHealth": "number",
+        "regeneration": "number",
+        "regenerationDelay": "number"
+      },
+      "unitValue": {
+        "goldCost": "number"
+      }
+    },
+    "branch11": {
+      "unit": {
+        "unitType": ["UNIT", "MISSILE", "STRUCTURE"]
+      },
+      "unitStats": {
+        "radius": "number",
+
+        "invulnerable": "boolean",
+
+        "ground": "boolean"
+      },
+      "health": {
+        "maxHealth": "number",
+        "startHealth": "number",
+        "regeneration": "number",
+        "regenerationDelay": "number"
+      },
+      "unitValue": {
+        "goldCost": "number"
+      }
+    },
+    "branch12": {
+      "unit": {
+        "unitType": ["UNIT", "MISSILE", "STRUCTURE"]
+      },
+      "unitStats": {
+        "radius": "number",
+
+        "invulnerable": "boolean",
+
+        "ground": "boolean"
+      },
+      "health": {
+        "maxHealth": "number",
+        "startHealth": "number",
+        "regeneration": "number",
+        "regenerationDelay": "number"
+      },
+      "unitValue": {
+        "goldCost": "number"
+      }
+    },
+    "branch9": {
+      "unit": {
+        "unitType": ["UNIT", "MISSILE", "STRUCTURE"]
+      },
+      "unitStats": {
+        "radius": "number",
+
+        "invulnerable": "boolean",
+
+        "ground": "boolean"
+      },
+      "health": {
+        "maxHealth": "number",
+        "startHealth": "number",
+        "regeneration": "number",
+        "regenerationDelay": "number"
+      },
+      "unitValue": {
+        "goldCost": "number"
+      }
+    },
+    "branch8": {
+      "unit": {
+        "unitType": ["UNIT", "MISSILE", "STRUCTURE"]
+      },
+      "unitStats": {
+        "radius": "number",
+
+        "invulnerable": "boolean",
+
+        "ground": "boolean"
+      },
+      "health": {
+        "maxHealth": "number",
+        "startHealth": "number",
+        "regeneration": "number",
+        "regenerationDelay": "number"
+      },
+      "unitValue": {
+        "goldCost": "number"
+      }
+    },
+    "branch7": {
+      "unit": {
+        "unitType": ["UNIT", "MISSILE", "STRUCTURE"]
+      },
+      "unitStats": {
+        "radius": "number",
+
+        "invulnerable": "boolean",
+
+        "ground": "boolean"
+      },
+      "health": {
+        "maxHealth": "number",
+        "startHealth": "number",
+        "regeneration": "number",
+        "regenerationDelay": "number"
+      },
+      "unitValue": {
+        "goldCost": "number"
+      }
+    },
+    "branch6": {
+      "unit": {
+        "unitType": ["UNIT", "MISSILE", "STRUCTURE"]
+      },
+      "unitStats": {
+        "radius": "number",
+
+        "invulnerable": "boolean",
+
+        "ground": "boolean"
+      },
+      "health": {
+        "maxHealth": "number",
+        "startHealth": "number",
+        "regeneration": "number",
+        "regenerationDelay": "number"
+      },
+      "unitValue": {
+        "goldCost": "number"
+      }
+    },
+    "branch5": {
+      "unit": {
+        "unitType": ["UNIT", "MISSILE", "STRUCTURE"]
+      },
+      "unitStats": {
+        "radius": "number",
+
+        "invulnerable": "boolean",
+
+        "ground": "boolean"
+      },
+      "health": {
+        "maxHealth": "number",
+        "startHealth": "number",
+        "regeneration": "number",
+        "regenerationDelay": "number"
+      },
+      "unitValue": {
+        "goldCost": "number"
+      }
+    },
+    "branch4": {
+      "unit": {
+        "unitType": ["UNIT", "MISSILE", "STRUCTURE"]
+      },
+      "unitStats": {
+        "radius": "number",
+
+        "invulnerable": "boolean",
+
+        "ground": "boolean"
+      },
+      "health": {
+        "maxHealth": "number",
+        "startHealth": "number",
+        "regeneration": "number",
+        "regenerationDelay": "number"
+      },
+      "unitValue": {
+        "goldCost": "number"
+      }
+    },
+    "branch3": {
+      "unit": {
+        "unitType": ["UNIT", "MISSILE", "STRUCTURE"]
+      },
+      "unitStats": {
+        "radius": "number",
+
+        "invulnerable": "boolean",
+
+        "ground": "boolean"
+      },
+      "health": {
+        "maxHealth": "number",
+        "startHealth": "number",
+        "regeneration": "number",
+        "regenerationDelay": "number"
+      },
+      "unitValue": {
+        "goldCost": "number"
+      }
+    }
+  },
+  "components2": {
+    "unit": {
+      "unitType": ["UNIT", "MISSILE", "STRUCTURE"]
+    },
+    "unitStats": {
+      "radius": "number",
+
+      "invulnerable": "boolean",
+
+      "ground": "boolean"
+    },
+    "health": {
+      "maxHealth": "number",
+      "startHealth": "number",
+      "regeneration": "number",
+      "regenerationDelay": "number"
+    },
+    "unitValue": {
+      "goldCost": "number"
+    },
+    "branch": {
+      "unit": {
+        "unitType": ["UNIT", "MISSILE", "STRUCTURE"]
+      },
+      "unitStats": {
+        "radius": "number",
+
+        "invulnerable": "boolean",
+
+        "ground": "boolean"
+      },
+      "health": {
+        "maxHealth": "number",
+        "startHealth": "number",
+        "regeneration": "number",
+        "regenerationDelay": "number"
+      },
+      "unitValue": {
+        "goldCost": "number"
+      }
+    },
+    "branch2": {
+      "unit": {
+        "unitType": ["UNIT", "MISSILE", "STRUCTURE"]
+      },
+      "unitStats": {
+        "radius": "number",
+
+        "invulnerable": "boolean",
+
+        "ground": "boolean"
+      },
+      "health": {
+        "maxHealth": "number",
+        "startHealth": "number",
+        "regeneration": "number",
+        "regenerationDelay": "number"
+      },
+      "unitValue": {
+        "goldCost": "number"
+      }
+    },
+    "branch26": {
+      "unit": {
+        "unitType": ["UNIT", "MISSILE", "STRUCTURE"]
+      },
+      "unitStats": {
+        "radius": "number",
+
+        "invulnerable": "boolean",
+
+        "ground": "boolean"
+      },
+      "health": {
+        "maxHealth": "number",
+        "startHealth": "number",
+        "regeneration": "number",
+        "regenerationDelay": "number"
+      },
+      "unitValue": {
+        "goldCost": "number"
+      }
+    },
+    "branch25": {
+      "unit": {
+        "unitType": ["UNIT", "MISSILE", "STRUCTURE"]
+      },
+      "unitStats": {
+        "radius": "number",
+
+        "invulnerable": "boolean",
+
+        "ground": "boolean"
+      },
+      "health": {
+        "maxHealth": "number",
+        "startHealth": "number",
+        "regeneration": "number",
+        "regenerationDelay": "number"
+      },
+      "unitValue": {
+        "goldCost": "number"
+      }
+    },
+    "branch24": {
+      "unit": {
+        "unitType": ["UNIT", "MISSILE", "STRUCTURE"]
+      },
+      "unitStats": {
+        "radius": "number",
+
+        "invulnerable": "boolean",
+
+        "ground": "boolean"
+      },
+      "health": {
+        "maxHealth": "number",
+        "startHealth": "number",
+        "regeneration": "number",
+        "regenerationDelay": "number"
+      },
+      "unitValue": {
+        "goldCost": "number"
+      }
+    },
+    "branch23": {
+      "unit": {
+        "unitType": ["UNIT", "MISSILE", "STRUCTURE"]
+      },
+      "unitStats": {
+        "radius": "number",
+
+        "invulnerable": "boolean",
+
+        "ground": "boolean"
+      },
+      "health": {
+        "maxHealth": "number",
+        "startHealth": "number",
+        "regeneration": "number",
+        "regenerationDelay": "number"
+      },
+      "unitValue": {
+        "goldCost": "number"
+      }
+    },
+    "branch22": {
+      "unit": {
+        "unitType": ["UNIT", "MISSILE", "STRUCTURE"]
+      },
+      "unitStats": {
+        "radius": "number",
+
+        "invulnerable": "boolean",
+
+        "ground": "boolean"
+      },
+      "health": {
+        "maxHealth": "number",
+        "startHealth": "number",
+        "regeneration": "number",
+        "regenerationDelay": "number"
+      },
+      "unitValue": {
+        "goldCost": "number"
+      }
+    },
+    "branch21": {
+      "unit": {
+        "unitType": ["UNIT", "MISSILE", "STRUCTURE"]
+      },
+      "unitStats": {
+        "radius": "number",
+
+        "invulnerable": "boolean",
+
+        "ground": "boolean"
+      },
+      "health": {
+        "maxHealth": "number",
+        "startHealth": "number",
+        "regeneration": "number",
+        "regenerationDelay": "number"
+      },
+      "unitValue": {
+        "goldCost": "number"
+      }
+    },
+    "branch20": {
+      "unit": {
+        "unitType": ["UNIT", "MISSILE", "STRUCTURE"]
+      },
+      "unitStats": {
+        "radius": "number",
+
+        "invulnerable": "boolean",
+
+        "ground": "boolean"
+      },
+      "health": {
+        "maxHealth": "number",
+        "startHealth": "number",
+        "regeneration": "number",
+        "regenerationDelay": "number"
+      },
+      "unitValue": {
+        "goldCost": "number"
+      }
+    },
+    "branch19": {
+      "unit": {
+        "unitType": ["UNIT", "MISSILE", "STRUCTURE"]
+      },
+      "unitStats": {
+        "radius": "number",
+
+        "invulnerable": "boolean",
+
+        "ground": "boolean"
+      },
+      "health": {
+        "maxHealth": "number",
+        "startHealth": "number",
+        "regeneration": "number",
+        "regenerationDelay": "number"
+      },
+      "unitValue": {
+        "goldCost": "number"
+      }
+    },
+    "branch18": {
+      "unit": {
+        "unitType": ["UNIT", "MISSILE", "STRUCTURE"]
+      },
+      "unitStats": {
+        "radius": "number",
+
+        "invulnerable": "boolean",
+
+        "ground": "boolean"
+      },
+      "health": {
+        "maxHealth": "number",
+        "startHealth": "number",
+        "regeneration": "number",
+        "regenerationDelay": "number"
+      },
+      "unitValue": {
+        "goldCost": "number"
+      }
+    },
+    "branch17": {
+      "unit": {
+        "unitType": ["UNIT", "MISSILE", "STRUCTURE"]
+      },
+      "unitStats": {
+        "radius": "number",
+
+        "invulnerable": "boolean",
+
+        "ground": "boolean"
+      },
+      "health": {
+        "maxHealth": "number",
+        "startHealth": "number",
+        "regeneration": "number",
+        "regenerationDelay": "number"
+      },
+      "unitValue": {
+        "goldCost": "number"
+      }
+    },
+    "branch16": {
+      "unit": {
+        "unitType": ["UNIT", "MISSILE", "STRUCTURE"]
+      },
+      "unitStats": {
+        "radius": "number",
+
+        "invulnerable": "boolean",
+
+        "ground": "boolean"
+      },
+      "health": {
+        "maxHealth": "number",
+        "startHealth": "number",
+        "regeneration": "number",
+        "regenerationDelay": "number"
+      },
+      "unitValue": {
+        "goldCost": "number"
+      }
+    },
+    "branch15": {
+      "unit": {
+        "unitType": ["UNIT", "MISSILE", "STRUCTURE"]
+      },
+      "unitStats": {
+        "radius": "number",
+
+        "invulnerable": "boolean",
+
+        "ground": "boolean"
+      },
+      "health": {
+        "maxHealth": "number",
+        "startHealth": "number",
+        "regeneration": "number",
+        "regenerationDelay": "number"
+      },
+      "unitValue": {
+        "goldCost": "number"
+      }
+    },
+    "branch14": {
+      "unit": {
+        "unitType": ["UNIT", "MISSILE", "STRUCTURE"]
+      },
+      "unitStats": {
+        "radius": "number",
+
+        "invulnerable": "boolean",
+
+        "ground": "boolean"
+      },
+      "health": {
+        "maxHealth": "number",
+        "startHealth": "number",
+        "regeneration": "number",
+        "regenerationDelay": "number"
+      },
+      "unitValue": {
+        "goldCost": "number"
+      }
+    },
+    "branch13": {
+      "unit": {
+        "unitType": ["UNIT", "MISSILE", "STRUCTURE"]
+      },
+      "unitStats": {
+        "radius": "number",
+
+        "invulnerable": "boolean",
+
+        "ground": "boolean"
+      },
+      "health": {
+        "maxHealth": "number",
+        "startHealth": "number",
+        "regeneration": "number",
+        "regenerationDelay": "number"
+      },
+      "unitValue": {
+        "goldCost": "number"
+      }
+    },
+    "branch10": {
+      "unit": {
+        "unitType": ["UNIT", "MISSILE", "STRUCTURE"]
+      },
+      "unitStats": {
+        "radius": "number",
+
+        "invulnerable": "boolean",
+
+        "ground": "boolean"
+      },
+      "health": {
+        "maxHealth": "number",
+        "startHealth": "number",
+        "regeneration": "number",
+        "regenerationDelay": "number"
+      },
+      "unitValue": {
+        "goldCost": "number"
+      }
+    },
+    "branch11": {
+      "unit": {
+        "unitType": ["UNIT", "MISSILE", "STRUCTURE"]
+      },
+      "unitStats": {
+        "radius": "number",
+
+        "invulnerable": "boolean",
+
+        "ground": "boolean"
+      },
+      "health": {
+        "maxHealth": "number",
+        "startHealth": "number",
+        "regeneration": "number",
+        "regenerationDelay": "number"
+      },
+      "unitValue": {
+        "goldCost": "number"
+      }
+    },
+    "branch12": {
+      "unit": {
+        "unitType": ["UNIT", "MISSILE", "STRUCTURE"]
+      },
+      "unitStats": {
+        "radius": "number",
+
+        "invulnerable": "boolean",
+
+        "ground": "boolean"
+      },
+      "health": {
+        "maxHealth": "number",
+        "startHealth": "number",
+        "regeneration": "number",
+        "regenerationDelay": "number"
+      },
+      "unitValue": {
+        "goldCost": "number"
+      }
+    },
+    "branch9": {
+      "unit": {
+        "unitType": ["UNIT", "MISSILE", "STRUCTURE"]
+      },
+      "unitStats": {
+        "radius": "number",
+
+        "invulnerable": "boolean",
+
+        "ground": "boolean"
+      },
+      "health": {
+        "maxHealth": "number",
+        "startHealth": "number",
+        "regeneration": "number",
+        "regenerationDelay": "number"
+      },
+      "unitValue": {
+        "goldCost": "number"
+      }
+    },
+    "branch8": {
+      "unit": {
+        "unitType": ["UNIT", "MISSILE", "STRUCTURE"]
+      },
+      "unitStats": {
+        "radius": "number",
+
+        "invulnerable": "boolean",
+
+        "ground": "boolean"
+      },
+      "health": {
+        "maxHealth": "number",
+        "startHealth": "number",
+        "regeneration": "number",
+        "regenerationDelay": "number"
+      },
+      "unitValue": {
+        "goldCost": "number"
+      }
+    },
+    "branch7": {
+      "unit": {
+        "unitType": ["UNIT", "MISSILE", "STRUCTURE"]
+      },
+      "unitStats": {
+        "radius": "number",
+
+        "invulnerable": "boolean",
+
+        "ground": "boolean"
+      },
+      "health": {
+        "maxHealth": "number",
+        "startHealth": "number",
+        "regeneration": "number",
+        "regenerationDelay": "number"
+      },
+      "unitValue": {
+        "goldCost": "number"
+      }
+    },
+    "branch6": {
+      "unit": {
+        "unitType": ["UNIT", "MISSILE", "STRUCTURE"]
+      },
+      "unitStats": {
+        "radius": "number",
+
+        "invulnerable": "boolean",
+
+        "ground": "boolean"
+      },
+      "health": {
+        "maxHealth": "number",
+        "startHealth": "number",
+        "regeneration": "number",
+        "regenerationDelay": "number"
+      },
+      "unitValue": {
+        "goldCost": "number"
+      }
+    },
+    "branch5": {
+      "unit": {
+        "unitType": ["UNIT", "MISSILE", "STRUCTURE"]
+      },
+      "unitStats": {
+        "radius": "number",
+
+        "invulnerable": "boolean",
+
+        "ground": "boolean"
+      },
+      "health": {
+        "maxHealth": "number",
+        "startHealth": "number",
+        "regeneration": "number",
+        "regenerationDelay": "number"
+      },
+      "unitValue": {
+        "goldCost": "number"
+      }
+    },
+    "branch4": {
+      "unit": {
+        "unitType": ["UNIT", "MISSILE", "STRUCTURE"]
+      },
+      "unitStats": {
+        "radius": "number",
+
+        "invulnerable": "boolean",
+
+        "ground": "boolean"
+      },
+      "health": {
+        "maxHealth": "number",
+        "startHealth": "number",
+        "regeneration": "number",
+        "regenerationDelay": "number"
+      },
+      "unitValue": {
+        "goldCost": "number"
+      }
+    },
+    "branch3": {
+      "unit": {
+        "unitType": ["UNIT", "MISSILE", "STRUCTURE"]
+      },
+      "unitStats": {
+        "radius": "number",
+
+        "invulnerable": "boolean",
+
+        "ground": "boolean"
+      },
+      "health": {
+        "maxHealth": "number",
+        "startHealth": "number",
+        "regeneration": "number",
+        "regenerationDelay": "number"
+      },
+      "unitValue": {
+        "goldCost": "number"
+      }
+    }
+  },
+  "components3": {
+    "unit": {
+      "unitType": ["UNIT", "MISSILE", "STRUCTURE"]
+    },
+    "unitStats": {
+      "radius": "number",
+
+      "invulnerable": "boolean",
+
+      "ground": "boolean"
+    },
+    "health": {
+      "maxHealth": "number",
+      "startHealth": "number",
+      "regeneration": "number",
+      "regenerationDelay": "number"
+    },
+    "unitValue": {
+      "goldCost": "number"
+    },
+    "branch": {
+      "unit": {
+        "unitType": ["UNIT", "MISSILE", "STRUCTURE"]
+      },
+      "unitStats": {
+        "radius": "number",
+
+        "invulnerable": "boolean",
+
+        "ground": "boolean"
+      },
+      "health": {
+        "maxHealth": "number",
+        "startHealth": "number",
+        "regeneration": "number",
+        "regenerationDelay": "number"
+      },
+      "unitValue": {
+        "goldCost": "number"
+      }
+    },
+    "branch2": {
+      "unit": {
+        "unitType": ["UNIT", "MISSILE", "STRUCTURE"]
+      },
+      "unitStats": {
+        "radius": "number",
+
+        "invulnerable": "boolean",
+
+        "ground": "boolean"
+      },
+      "health": {
+        "maxHealth": "number",
+        "startHealth": "number",
+        "regeneration": "number",
+        "regenerationDelay": "number"
+      },
+      "unitValue": {
+        "goldCost": "number"
+      }
+    },
+    "branch26": {
+      "unit": {
+        "unitType": ["UNIT", "MISSILE", "STRUCTURE"]
+      },
+      "unitStats": {
+        "radius": "number",
+
+        "invulnerable": "boolean",
+
+        "ground": "boolean"
+      },
+      "health": {
+        "maxHealth": "number",
+        "startHealth": "number",
+        "regeneration": "number",
+        "regenerationDelay": "number"
+      },
+      "unitValue": {
+        "goldCost": "number"
+      }
+    },
+    "branch25": {
+      "unit": {
+        "unitType": ["UNIT", "MISSILE", "STRUCTURE"]
+      },
+      "unitStats": {
+        "radius": "number",
+
+        "invulnerable": "boolean",
+
+        "ground": "boolean"
+      },
+      "health": {
+        "maxHealth": "number",
+        "startHealth": "number",
+        "regeneration": "number",
+        "regenerationDelay": "number"
+      },
+      "unitValue": {
+        "goldCost": "number"
+      }
+    },
+    "branch24": {
+      "unit": {
+        "unitType": ["UNIT", "MISSILE", "STRUCTURE"]
+      },
+      "unitStats": {
+        "radius": "number",
+
+        "invulnerable": "boolean",
+
+        "ground": "boolean"
+      },
+      "health": {
+        "maxHealth": "number",
+        "startHealth": "number",
+        "regeneration": "number",
+        "regenerationDelay": "number"
+      },
+      "unitValue": {
+        "goldCost": "number"
+      }
+    },
+    "branch23": {
+      "unit": {
+        "unitType": ["UNIT", "MISSILE", "STRUCTURE"]
+      },
+      "unitStats": {
+        "radius": "number",
+
+        "invulnerable": "boolean",
+
+        "ground": "boolean"
+      },
+      "health": {
+        "maxHealth": "number",
+        "startHealth": "number",
+        "regeneration": "number",
+        "regenerationDelay": "number"
+      },
+      "unitValue": {
+        "goldCost": "number"
+      }
+    },
+    "branch22": {
+      "unit": {
+        "unitType": ["UNIT", "MISSILE", "STRUCTURE"]
+      },
+      "unitStats": {
+        "radius": "number",
+
+        "invulnerable": "boolean",
+
+        "ground": "boolean"
+      },
+      "health": {
+        "maxHealth": "number",
+        "startHealth": "number",
+        "regeneration": "number",
+        "regenerationDelay": "number"
+      },
+      "unitValue": {
+        "goldCost": "number"
+      }
+    },
+    "branch21": {
+      "unit": {
+        "unitType": ["UNIT", "MISSILE", "STRUCTURE"]
+      },
+      "unitStats": {
+        "radius": "number",
+
+        "invulnerable": "boolean",
+
+        "ground": "boolean"
+      },
+      "health": {
+        "maxHealth": "number",
+        "startHealth": "number",
+        "regeneration": "number",
+        "regenerationDelay": "number"
+      },
+      "unitValue": {
+        "goldCost": "number"
+      }
+    },
+    "branch20": {
+      "unit": {
+        "unitType": ["UNIT", "MISSILE", "STRUCTURE"]
+      },
+      "unitStats": {
+        "radius": "number",
+
+        "invulnerable": "boolean",
+
+        "ground": "boolean"
+      },
+      "health": {
+        "maxHealth": "number",
+        "startHealth": "number",
+        "regeneration": "number",
+        "regenerationDelay": "number"
+      },
+      "unitValue": {
+        "goldCost": "number"
+      }
+    },
+    "branch19": {
+      "unit": {
+        "unitType": ["UNIT", "MISSILE", "STRUCTURE"]
+      },
+      "unitStats": {
+        "radius": "number",
+
+        "invulnerable": "boolean",
+
+        "ground": "boolean"
+      },
+      "health": {
+        "maxHealth": "number",
+        "startHealth": "number",
+        "regeneration": "number",
+        "regenerationDelay": "number"
+      },
+      "unitValue": {
+        "goldCost": "number"
+      }
+    },
+    "branch18": {
+      "unit": {
+        "unitType": ["UNIT", "MISSILE", "STRUCTURE"]
+      },
+      "unitStats": {
+        "radius": "number",
+
+        "invulnerable": "boolean",
+
+        "ground": "boolean"
+      },
+      "health": {
+        "maxHealth": "number",
+        "startHealth": "number",
+        "regeneration": "number",
+        "regenerationDelay": "number"
+      },
+      "unitValue": {
+        "goldCost": "number"
+      }
+    },
+    "branch17": {
+      "unit": {
+        "unitType": ["UNIT", "MISSILE", "STRUCTURE"]
+      },
+      "unitStats": {
+        "radius": "number",
+
+        "invulnerable": "boolean",
+
+        "ground": "boolean"
+      },
+      "health": {
+        "maxHealth": "number",
+        "startHealth": "number",
+        "regeneration": "number",
+        "regenerationDelay": "number"
+      },
+      "unitValue": {
+        "goldCost": "number"
+      }
+    },
+    "branch16": {
+      "unit": {
+        "unitType": ["UNIT", "MISSILE", "STRUCTURE"]
+      },
+      "unitStats": {
+        "radius": "number",
+
+        "invulnerable": "boolean",
+
+        "ground": "boolean"
+      },
+      "health": {
+        "maxHealth": "number",
+        "startHealth": "number",
+        "regeneration": "number",
+        "regenerationDelay": "number"
+      },
+      "unitValue": {
+        "goldCost": "number"
+      }
+    },
+    "branch15": {
+      "unit": {
+        "unitType": ["UNIT", "MISSILE", "STRUCTURE"]
+      },
+      "unitStats": {
+        "radius": "number",
+
+        "invulnerable": "boolean",
+
+        "ground": "boolean"
+      },
+      "health": {
+        "maxHealth": "number",
+        "startHealth": "number",
+        "regeneration": "number",
+        "regenerationDelay": "number"
+      },
+      "unitValue": {
+        "goldCost": "number"
+      }
+    },
+    "branch14": {
+      "unit": {
+        "unitType": ["UNIT", "MISSILE", "STRUCTURE"]
+      },
+      "unitStats": {
+        "radius": "number",
+
+        "invulnerable": "boolean",
+
+        "ground": "boolean"
+      },
+      "health": {
+        "maxHealth": "number",
+        "startHealth": "number",
+        "regeneration": "number",
+        "regenerationDelay": "number"
+      },
+      "unitValue": {
+        "goldCost": "number"
+      }
+    },
+    "branch13": {
+      "unit": {
+        "unitType": ["UNIT", "MISSILE", "STRUCTURE"]
+      },
+      "unitStats": {
+        "radius": "number",
+
+        "invulnerable": "boolean",
+
+        "ground": "boolean"
+      },
+      "health": {
+        "maxHealth": "number",
+        "startHealth": "number",
+        "regeneration": "number",
+        "regenerationDelay": "number"
+      },
+      "unitValue": {
+        "goldCost": "number"
+      }
+    },
+    "branch10": {
+      "unit": {
+        "unitType": ["UNIT", "MISSILE", "STRUCTURE"]
+      },
+      "unitStats": {
+        "radius": "number",
+
+        "invulnerable": "boolean",
+
+        "ground": "boolean"
+      },
+      "health": {
+        "maxHealth": "number",
+        "startHealth": "number",
+        "regeneration": "number",
+        "regenerationDelay": "number"
+      },
+      "unitValue": {
+        "goldCost": "number"
+      }
+    },
+    "branch11": {
+      "unit": {
+        "unitType": ["UNIT", "MISSILE", "STRUCTURE"]
+      },
+      "unitStats": {
+        "radius": "number",
+
+        "invulnerable": "boolean",
+
+        "ground": "boolean"
+      },
+      "health": {
+        "maxHealth": "number",
+        "startHealth": "number",
+        "regeneration": "number",
+        "regenerationDelay": "number"
+      },
+      "unitValue": {
+        "goldCost": "number"
+      }
+    },
+    "branch12": {
+      "unit": {
+        "unitType": ["UNIT", "MISSILE", "STRUCTURE"]
+      },
+      "unitStats": {
+        "radius": "number",
+
+        "invulnerable": "boolean",
+
+        "ground": "boolean"
+      },
+      "health": {
+        "maxHealth": "number",
+        "startHealth": "number",
+        "regeneration": "number",
+        "regenerationDelay": "number"
+      },
+      "unitValue": {
+        "goldCost": "number"
+      }
+    },
+    "branch9": {
+      "unit": {
+        "unitType": ["UNIT", "MISSILE", "STRUCTURE"]
+      },
+      "unitStats": {
+        "radius": "number",
+
+        "invulnerable": "boolean",
+
+        "ground": "boolean"
+      },
+      "health": {
+        "maxHealth": "number",
+        "startHealth": "number",
+        "regeneration": "number",
+        "regenerationDelay": "number"
+      },
+      "unitValue": {
+        "goldCost": "number"
+      }
+    },
+    "branch8": {
+      "unit": {
+        "unitType": ["UNIT", "MISSILE", "STRUCTURE"]
+      },
+      "unitStats": {
+        "radius": "number",
+
+        "invulnerable": "boolean",
+
+        "ground": "boolean"
+      },
+      "health": {
+        "maxHealth": "number",
+        "startHealth": "number",
+        "regeneration": "number",
+        "regenerationDelay": "number"
+      },
+      "unitValue": {
+        "goldCost": "number"
+      }
+    },
+    "branch7": {
+      "unit": {
+        "unitType": ["UNIT", "MISSILE", "STRUCTURE"]
+      },
+      "unitStats": {
+        "radius": "number",
+
+        "invulnerable": "boolean",
+
+        "ground": "boolean"
+      },
+      "health": {
+        "maxHealth": "number",
+        "startHealth": "number",
+        "regeneration": "number",
+        "regenerationDelay": "number"
+      },
+      "unitValue": {
+        "goldCost": "number"
+      }
+    },
+    "branch6": {
+      "unit": {
+        "unitType": ["UNIT", "MISSILE", "STRUCTURE"]
+      },
+      "unitStats": {
+        "radius": "number",
+
+        "invulnerable": "boolean",
+
+        "ground": "boolean"
+      },
+      "health": {
+        "maxHealth": "number",
+        "startHealth": "number",
+        "regeneration": "number",
+        "regenerationDelay": "number"
+      },
+      "unitValue": {
+        "goldCost": "number"
+      }
+    },
+    "branch5": {
+      "unit": {
+        "unitType": ["UNIT", "MISSILE", "STRUCTURE"]
+      },
+      "unitStats": {
+        "radius": "number",
+
+        "invulnerable": "boolean",
+
+        "ground": "boolean"
+      },
+      "health": {
+        "maxHealth": "number",
+        "startHealth": "number",
+        "regeneration": "number",
+        "regenerationDelay": "number"
+      },
+      "unitValue": {
+        "goldCost": "number"
+      }
+    },
+    "branch4": {
+      "unit": {
+        "unitType": ["UNIT", "MISSILE", "STRUCTURE"]
+      },
+      "unitStats": {
+        "radius": "number",
+
+        "invulnerable": "boolean",
+
+        "ground": "boolean"
+      },
+      "health": {
+        "maxHealth": "number",
+        "startHealth": "number",
+        "regeneration": "number",
+        "regenerationDelay": "number"
+      },
+      "unitValue": {
+        "goldCost": "number"
+      }
+    },
+    "branch3": {
+      "unit": {
+        "unitType": ["UNIT", "MISSILE", "STRUCTURE"]
+      },
+      "unitStats": {
+        "radius": "number",
+
+        "invulnerable": "boolean",
+
+        "ground": "boolean"
+      },
+      "health": {
+        "maxHealth": "number",
+        "startHealth": "number",
+        "regeneration": "number",
+        "regenerationDelay": "number"
+      },
+      "unitValue": {
+        "goldCost": "number"
+      }
+    }
+  },
+  "components4": {
+    "unit": {
+      "unitType": ["UNIT", "MISSILE", "STRUCTURE"]
+    },
+    "unitStats": {
+      "radius": "number",
+
+      "invulnerable": "boolean",
+
+      "ground": "boolean"
+    },
+    "health": {
+      "maxHealth": "number",
+      "startHealth": "number",
+      "regeneration": "number",
+      "regenerationDelay": "number"
+    },
+    "unitValue": {
+      "goldCost": "number"
+    },
+    "branch": {
+      "unit": {
+        "unitType": ["UNIT", "MISSILE", "STRUCTURE"]
+      },
+      "unitStats": {
+        "radius": "number",
+
+        "invulnerable": "boolean",
+
+        "ground": "boolean"
+      },
+      "health": {
+        "maxHealth": "number",
+        "startHealth": "number",
+        "regeneration": "number",
+        "regenerationDelay": "number"
+      },
+      "unitValue": {
+        "goldCost": "number"
+      }
+    },
+    "branch2": {
+      "unit": {
+        "unitType": ["UNIT", "MISSILE", "STRUCTURE"]
+      },
+      "unitStats": {
+        "radius": "number",
+
+        "invulnerable": "boolean",
+
+        "ground": "boolean"
+      },
+      "health": {
+        "maxHealth": "number",
+        "startHealth": "number",
+        "regeneration": "number",
+        "regenerationDelay": "number"
+      },
+      "unitValue": {
+        "goldCost": "number"
+      }
+    },
+    "branch26": {
+      "unit": {
+        "unitType": ["UNIT", "MISSILE", "STRUCTURE"]
+      },
+      "unitStats": {
+        "radius": "number",
+
+        "invulnerable": "boolean",
+
+        "ground": "boolean"
+      },
+      "health": {
+        "maxHealth": "number",
+        "startHealth": "number",
+        "regeneration": "number",
+        "regenerationDelay": "number"
+      },
+      "unitValue": {
+        "goldCost": "number"
+      }
+    },
+    "branch25": {
+      "unit": {
+        "unitType": ["UNIT", "MISSILE", "STRUCTURE"]
+      },
+      "unitStats": {
+        "radius": "number",
+
+        "invulnerable": "boolean",
+
+        "ground": "boolean"
+      },
+      "health": {
+        "maxHealth": "number",
+        "startHealth": "number",
+        "regeneration": "number",
+        "regenerationDelay": "number"
+      },
+      "unitValue": {
+        "goldCost": "number"
+      }
+    },
+    "branch24": {
+      "unit": {
+        "unitType": ["UNIT", "MISSILE", "STRUCTURE"]
+      },
+      "unitStats": {
+        "radius": "number",
+
+        "invulnerable": "boolean",
+
+        "ground": "boolean"
+      },
+      "health": {
+        "maxHealth": "number",
+        "startHealth": "number",
+        "regeneration": "number",
+        "regenerationDelay": "number"
+      },
+      "unitValue": {
+        "goldCost": "number"
+      }
+    },
+    "branch23": {
+      "unit": {
+        "unitType": ["UNIT", "MISSILE", "STRUCTURE"]
+      },
+      "unitStats": {
+        "radius": "number",
+
+        "invulnerable": "boolean",
+
+        "ground": "boolean"
+      },
+      "health": {
+        "maxHealth": "number",
+        "startHealth": "number",
+        "regeneration": "number",
+        "regenerationDelay": "number"
+      },
+      "unitValue": {
+        "goldCost": "number"
+      }
+    },
+    "branch22": {
+      "unit": {
+        "unitType": ["UNIT", "MISSILE", "STRUCTURE"]
+      },
+      "unitStats": {
+        "radius": "number",
+
+        "invulnerable": "boolean",
+
+        "ground": "boolean"
+      },
+      "health": {
+        "maxHealth": "number",
+        "startHealth": "number",
+        "regeneration": "number",
+        "regenerationDelay": "number"
+      },
+      "unitValue": {
+        "goldCost": "number"
+      }
+    },
+    "branch21": {
+      "unit": {
+        "unitType": ["UNIT", "MISSILE", "STRUCTURE"]
+      },
+      "unitStats": {
+        "radius": "number",
+
+        "invulnerable": "boolean",
+
+        "ground": "boolean"
+      },
+      "health": {
+        "maxHealth": "number",
+        "startHealth": "number",
+        "regeneration": "number",
+        "regenerationDelay": "number"
+      },
+      "unitValue": {
+        "goldCost": "number"
+      }
+    },
+    "branch20": {
+      "unit": {
+        "unitType": ["UNIT", "MISSILE", "STRUCTURE"]
+      },
+      "unitStats": {
+        "radius": "number",
+
+        "invulnerable": "boolean",
+
+        "ground": "boolean"
+      },
+      "health": {
+        "maxHealth": "number",
+        "startHealth": "number",
+        "regeneration": "number",
+        "regenerationDelay": "number"
+      },
+      "unitValue": {
+        "goldCost": "number"
+      }
+    },
+    "branch19": {
+      "unit": {
+        "unitType": ["UNIT", "MISSILE", "STRUCTURE"]
+      },
+      "unitStats": {
+        "radius": "number",
+
+        "invulnerable": "boolean",
+
+        "ground": "boolean"
+      },
+      "health": {
+        "maxHealth": "number",
+        "startHealth": "number",
+        "regeneration": "number",
+        "regenerationDelay": "number"
+      },
+      "unitValue": {
+        "goldCost": "number"
+      }
+    },
+    "branch18": {
+      "unit": {
+        "unitType": ["UNIT", "MISSILE", "STRUCTURE"]
+      },
+      "unitStats": {
+        "radius": "number",
+
+        "invulnerable": "boolean",
+
+        "ground": "boolean"
+      },
+      "health": {
+        "maxHealth": "number",
+        "startHealth": "number",
+        "regeneration": "number",
+        "regenerationDelay": "number"
+      },
+      "unitValue": {
+        "goldCost": "number"
+      }
+    },
+    "branch17": {
+      "unit": {
+        "unitType": ["UNIT", "MISSILE", "STRUCTURE"]
+      },
+      "unitStats": {
+        "radius": "number",
+
+        "invulnerable": "boolean",
+
+        "ground": "boolean"
+      },
+      "health": {
+        "maxHealth": "number",
+        "startHealth": "number",
+        "regeneration": "number",
+        "regenerationDelay": "number"
+      },
+      "unitValue": {
+        "goldCost": "number"
+      }
+    },
+    "branch16": {
+      "unit": {
+        "unitType": ["UNIT", "MISSILE", "STRUCTURE"]
+      },
+      "unitStats": {
+        "radius": "number",
+
+        "invulnerable": "boolean",
+
+        "ground": "boolean"
+      },
+      "health": {
+        "maxHealth": "number",
+        "startHealth": "number",
+        "regeneration": "number",
+        "regenerationDelay": "number"
+      },
+      "unitValue": {
+        "goldCost": "number"
+      }
+    },
+    "branch15": {
+      "unit": {
+        "unitType": ["UNIT", "MISSILE", "STRUCTURE"]
+      },
+      "unitStats": {
+        "radius": "number",
+
+        "invulnerable": "boolean",
+
+        "ground": "boolean"
+      },
+      "health": {
+        "maxHealth": "number",
+        "startHealth": "number",
+        "regeneration": "number",
+        "regenerationDelay": "number"
+      },
+      "unitValue": {
+        "goldCost": "number"
+      }
+    },
+    "branch14": {
+      "unit": {
+        "unitType": ["UNIT", "MISSILE", "STRUCTURE"]
+      },
+      "unitStats": {
+        "radius": "number",
+
+        "invulnerable": "boolean",
+
+        "ground": "boolean"
+      },
+      "health": {
+        "maxHealth": "number",
+        "startHealth": "number",
+        "regeneration": "number",
+        "regenerationDelay": "number"
+      },
+      "unitValue": {
+        "goldCost": "number"
+      }
+    },
+    "branch13": {
+      "unit": {
+        "unitType": ["UNIT", "MISSILE", "STRUCTURE"]
+      },
+      "unitStats": {
+        "radius": "number",
+
+        "invulnerable": "boolean",
+
+        "ground": "boolean"
+      },
+      "health": {
+        "maxHealth": "number",
+        "startHealth": "number",
+        "regeneration": "number",
+        "regenerationDelay": "number"
+      },
+      "unitValue": {
+        "goldCost": "number"
+      }
+    },
+    "branch10": {
+      "unit": {
+        "unitType": ["UNIT", "MISSILE", "STRUCTURE"]
+      },
+      "unitStats": {
+        "radius": "number",
+
+        "invulnerable": "boolean",
+
+        "ground": "boolean"
+      },
+      "health": {
+        "maxHealth": "number",
+        "startHealth": "number",
+        "regeneration": "number",
+        "regenerationDelay": "number"
+      },
+      "unitValue": {
+        "goldCost": "number"
+      }
+    },
+    "branch11": {
+      "unit": {
+        "unitType": ["UNIT", "MISSILE", "STRUCTURE"]
+      },
+      "unitStats": {
+        "radius": "number",
+
+        "invulnerable": "boolean",
+
+        "ground": "boolean"
+      },
+      "health": {
+        "maxHealth": "number",
+        "startHealth": "number",
+        "regeneration": "number",
+        "regenerationDelay": "number"
+      },
+      "unitValue": {
+        "goldCost": "number"
+      }
+    },
+    "branch12": {
+      "unit": {
+        "unitType": ["UNIT", "MISSILE", "STRUCTURE"]
+      },
+      "unitStats": {
+        "radius": "number",
+
+        "invulnerable": "boolean",
+
+        "ground": "boolean"
+      },
+      "health": {
+        "maxHealth": "number",
+        "startHealth": "number",
+        "regeneration": "number",
+        "regenerationDelay": "number"
+      },
+      "unitValue": {
+        "goldCost": "number"
+      }
+    },
+    "branch9": {
+      "unit": {
+        "unitType": ["UNIT", "MISSILE", "STRUCTURE"]
+      },
+      "unitStats": {
+        "radius": "number",
+
+        "invulnerable": "boolean",
+
+        "ground": "boolean"
+      },
+      "health": {
+        "maxHealth": "number",
+        "startHealth": "number",
+        "regeneration": "number",
+        "regenerationDelay": "number"
+      },
+      "unitValue": {
+        "goldCost": "number"
+      }
+    },
+    "branch8": {
+      "unit": {
+        "unitType": ["UNIT", "MISSILE", "STRUCTURE"]
+      },
+      "unitStats": {
+        "radius": "number",
+
+        "invulnerable": "boolean",
+
+        "ground": "boolean"
+      },
+      "health": {
+        "maxHealth": "number",
+        "startHealth": "number",
+        "regeneration": "number",
+        "regenerationDelay": "number"
+      },
+      "unitValue": {
+        "goldCost": "number"
+      }
+    },
+    "branch7": {
+      "unit": {
+        "unitType": ["UNIT", "MISSILE", "STRUCTURE"]
+      },
+      "unitStats": {
+        "radius": "number",
+
+        "invulnerable": "boolean",
+
+        "ground": "boolean"
+      },
+      "health": {
+        "maxHealth": "number",
+        "startHealth": "number",
+        "regeneration": "number",
+        "regenerationDelay": "number"
+      },
+      "unitValue": {
+        "goldCost": "number"
+      }
+    },
+    "branch6": {
+      "unit": {
+        "unitType": ["UNIT", "MISSILE", "STRUCTURE"]
+      },
+      "unitStats": {
+        "radius": "number",
+
+        "invulnerable": "boolean",
+
+        "ground": "boolean"
+      },
+      "health": {
+        "maxHealth": "number",
+        "startHealth": "number",
+        "regeneration": "number",
+        "regenerationDelay": "number"
+      },
+      "unitValue": {
+        "goldCost": "number"
+      }
+    },
+    "branch5": {
+      "unit": {
+        "unitType": ["UNIT", "MISSILE", "STRUCTURE"]
+      },
+      "unitStats": {
+        "radius": "number",
+
+        "invulnerable": "boolean",
+
+        "ground": "boolean"
+      },
+      "health": {
+        "maxHealth": "number",
+        "startHealth": "number",
+        "regeneration": "number",
+        "regenerationDelay": "number"
+      },
+      "unitValue": {
+        "goldCost": "number"
+      }
+    },
+    "branch4": {
+      "unit": {
+        "unitType": ["UNIT", "MISSILE", "STRUCTURE"]
+      },
+      "unitStats": {
+        "radius": "number",
+
+        "invulnerable": "boolean",
+
+        "ground": "boolean"
+      },
+      "health": {
+        "maxHealth": "number",
+        "startHealth": "number",
+        "regeneration": "number",
+        "regenerationDelay": "number"
+      },
+      "unitValue": {
+        "goldCost": "number"
+      }
+    },
+    "branch3": {
+      "unit": {
+        "unitType": ["UNIT", "MISSILE", "STRUCTURE"]
+      },
+      "unitStats": {
+        "radius": "number",
+
+        "invulnerable": "boolean",
+
+        "ground": "boolean"
+      },
+      "health": {
+        "maxHealth": "number",
+        "startHealth": "number",
+        "regeneration": "number",
+        "regenerationDelay": "number"
+      },
+      "unitValue": {
+        "goldCost": "number"
+      }
+    }
+  }
+}
